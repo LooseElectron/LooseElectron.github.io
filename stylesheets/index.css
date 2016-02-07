@@ -1,22 +1,39 @@
 body {
     font-family: Helvetica;
-    margin: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
     text-align: center;
 }
 
 h1 {
-    font-size: 24px;
+    font-size: 36px;
+    padding-top: 4px;
+    padding-bottom: 4px;
 }
 
 h2 {
-    font-size: 18px;
+    font-size: 24px;
+    padding: 10px;
+}
+
+#header {
+    border: 2px dashed blue;
+}
+
+#content {
+    padding: 30px;
 }
 
 .button {
     background-color: blue;
+    border: 2px solid blue;
     border-radius: 4px;
     color: white;
-    width: 50px;
+    font-size: 24px;
+    padding-left: 4px;
+    padding-right: 4px;
+    width: 150px;
 }
 
 .button:hover {
