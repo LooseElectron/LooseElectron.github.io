@@ -1,0 +1,27 @@
+body {
+    font-family: Helvetica;
+    margin: 10%;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+    text-align: center;
+}
+
+.button {
+    background-color: blue;
+    border-radius: 4px;
+    color: white;
+    width: 50px;
+}
+
+.button:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid blue;
+}
