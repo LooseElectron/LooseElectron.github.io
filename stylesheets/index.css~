@@ -1,15 +1,16 @@
 body {
     font-family: Helvetica;
     margin: 10%;
-    text-align: center;
 }
 
 h1 {
     font-size: 24px;
+    text-align: center;
 }
 
 h2 {
     font-size: 18px;
+    text-align: center;
 }
 
 .button {
